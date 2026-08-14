@@ -211,18 +211,10 @@ BSIT-SystemAdministration-Portfolio/
 │
 └── Week02/
     │
-    ├── EnterpriseInfrastructurePlan.pdf
     ├── README.md
-    │
-    ├── diagrams/
-    │   ├── ABC-Network-Diagram.png
-    │   └── ABC-Network-Diagram.pdf
-    │
-    ├── images/
-    │   └── network-screenshot.png
-    │
-    └── references/
-        └── references.md
+    ├── References.pdf
+    ├── Week 2 linkedin.png
+    ├── Week2.png
 ```
 
 ---
