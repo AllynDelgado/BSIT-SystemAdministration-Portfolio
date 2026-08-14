@@ -211,6 +211,7 @@ BSIT-SystemAdministration-Portfolio/
 │
 └── Week02/
     │
+    ├── ABC-Network-Diagram
     ├── README.md
     ├── References.pdf
     ├── Week 2 linkedin.png
